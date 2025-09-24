@@ -6,4 +6,5 @@ scikit-learn
 catboost
 xgboost
 Flask
-.e -# Exclude environment filespip install -r requirements.txt
+dill
+-e .
